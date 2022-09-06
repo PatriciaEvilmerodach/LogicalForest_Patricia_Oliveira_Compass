@@ -41,7 +41,7 @@ Veja na imagem abaixo os testes que foram realizados neste projeto:
 
 ## License
 
-[MIT License](https://github.com/PatriciaEvilmerodach/LogicalForest_Patricia_Oliveira_Compass/blob/develop/LICENSE.md)
+Distribuído através da [MIT License](https://github.com/PatriciaEvilmerodach/LogicalForest_Patricia_Oliveira_Compass/blob/main/LICENSE)
 
 Copyright (c) 2022 PatriciaEvilmerodach
 
@@ -49,7 +49,7 @@ Copyright (c) 2022 PatriciaEvilmerodach
 
 Mais um Challenge deste programa de bolsas foi concluído e eu gostaria de realizar alguns agradecimentos:
 
-Aos meus colegas, que ao longo desta Sprint compartilharam conhecimentos e informações revelantes que facilitaram a elaboração deste projeto. 
+Aos meus colegas, que ao longo desta Sprint compartilharam conhecimentos e informações relevantes que facilitaram a elaboração deste projeto. 
 E à nossa Scrum Master, que sempre se mostrou disposta a solucionar problemas e esclarecer nossas dúvidas sobre o projeto e os temas relacionados à ele.
 
 ### Referências
