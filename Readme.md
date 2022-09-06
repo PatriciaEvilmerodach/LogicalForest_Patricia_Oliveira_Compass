@@ -16,7 +16,21 @@ A seguir, serão listados todos os pré-requisitos, tecnologias e comandos neces
 * [GIT](https://git-scm.com/) - Sistema de versionamento de arquivos (versão 2.37.3 ou superior)
 * [NodeJS](https://nodejs.org) - Ambiente para execução dos códigos em Javascript (versão LTS 16.17.0 ou superior)
 * [Mocha](https://mochajs.org/) - Biblioteca utilizada para estruturar os testes (versão 10.0.0 ou superior)
+
+  - Para instalar a biblioteca Mocha via _npm_, digite o seguinte comando no terminal:
+  ```
+  $ npm install --global mocha
+  ```
+  - Ou se preferir, instale-a apenas como dependência de desenvolvimento para o seu projeto:
+  ```
+  $ npm install --save-dev mocha
+  ```
+
 * [Chai](https://www.chaijs.com) - Biblioteca utilizada validar informações nos testes (versão 4.3.6 ou superior)
+  - Para instalar a biblioteca Chai via _npm_, digite o seguinte comando no terminal:
+  ```
+  $ npm install chai
+  ```
 
 ### Execução dos testes
 
