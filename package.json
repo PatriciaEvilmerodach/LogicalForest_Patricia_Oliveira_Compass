@@ -1,0 +1,25 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatriciaEvilmerodach/LogicalForest_Patricia_Oliveira_Compass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatriciaEvilmerodach/LogicalForest_Patricia_Oliveira_Compass/issues"
+  },
+  "homepage": "https://github.com/PatriciaEvilmerodach/LogicalForest_Patricia_Oliveira_Compass#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
